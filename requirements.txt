@@ -1,0 +1,10 @@
+# Movie Genre Classification - Requirements
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+jupyter
+notebook
